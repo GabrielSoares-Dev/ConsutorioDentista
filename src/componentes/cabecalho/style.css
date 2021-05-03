@@ -1,0 +1,60 @@
+
+
+header{
+    
+    background-color:#1b3675 ;
+    border-bottom: 1px solid white;
+position: fixed;
+
+ 
+    width: 100%;
+    
+  
+    
+ 
+
+  
+}
+.titulo{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    color: white;
+    padding: 5px;
+   
+    
+    
+  
+
+}
+
+.icone-logo{
+    display: flex;
+    justify-content: flex-start;
+    flex-direction: row;
+    
+}
+.botoes{
+    
+
+    font-size: 20px;
+    color: white;
+    padding: 20px;
+    text-decoration: none;
+    
+}
+.container-links{
+    display: flex;
+    justify-content: space-around;
+    
+
+    
+}
+.dente-cabe{
+    padding-top:30px;
+height: 50%;
+margin-right: 5px;
+ 
+}
+
+.botoes:hover{border-bottom: 5px solid white ;}

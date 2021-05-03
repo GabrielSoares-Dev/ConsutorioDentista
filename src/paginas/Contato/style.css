@@ -1,0 +1,61 @@
+
+.horario{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+  
+}
+.dest{
+    font-size: 30px;
+    font-weight: 400;
+    margin-top: 150px ;
+}
+.sub{
+    font-size: 20px;
+}
+
+
+.lista-medicos{
+display: flex;
+flex-direction: row;
+justify-content: center;
+align-items: center;
+flex-wrap: wrap;
+
+
+}
+
+
+.img-med{
+    border-radius:200px;
+    width: 300px;
+    padding: 20px;
+  
+  
+}
+.img-suz{
+    margin-top: 40px;
+    border-radius: 500px;
+    width: 400px;
+ 
+}
+li{
+    padding: 40px;
+    margin-right: 100px;
+    text-align: center;
+    
+
+}
+.org-loc{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+.local{
+    font-size: 30px;
+}
+.local-sub{
+    font-size: 20px;
+}
