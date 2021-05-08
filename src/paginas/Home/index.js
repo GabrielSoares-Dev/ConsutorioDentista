@@ -20,19 +20,19 @@ const Home = () => {
                 
                 <ul type="none" className="lista">
                     <li>
-                        <img src="assets/dente.png" />
+                        <img src="assets/dente.png" alt="dente" />
                         <p>Pré-avaliação</p>
                     </li>
                     <li>
-                        <img src="assets/dente.png" />
+                        <img src="assets/dente.png" alt="dente" />
                         <p>Raio-X digital</p>
                     </li>
                     <li>
-                        <img src="assets/dente.png" />
+                        <img src="assets/dente.png" alt="dente" />
                         <p>Aparelhos Dentários</p>
                     </li>
                     <li>
-                        <img src="assets/dente.png" />
+                        <img src="assets/dente.png" alt="dente" />
                         <p>Clareamento Dental</p>
                     </li>
                 </ul>
@@ -41,7 +41,7 @@ const Home = () => {
             </div>
             <div className="aparelho">
                 <p>POR QUE USAR <strong>APARELHO?</strong></p>
-                <img src="assets/aparelho.png" />
+                <img src="assets/aparelho.png"  alt="aparelho"/>
 
             </div>
             <ul type="none" className="pro-ap">
@@ -65,17 +65,17 @@ const Home = () => {
             </div>
             <ul type="none" className="opiniao">
                 <li>
-                    <img src="assets/cliente01.png" />
+                    <img src="assets/cliente01.png" alt="cliente1" />
                     <p>Alberto</p>
                     <p>Usei aparelho por 2 anos e agora posso sorrir novamente.</p>
                 </li>
                 <li>
-                    <img src="assets/cliente02.png" />
+                    <img src="assets/cliente02.png" alt="cliente2" />
                     <p>Eliana</p>
                     <p>Meus dentes eram espaçados e depois de 1 ano estão no lugar certo.</p>
                 </li>
                 <li>
-                    <img src="assets/cliente03.png" />
+                    <img src="assets/cliente03.png" alt="cliente3" />
                     <p>Carla</p>
                     <p>Começei a usar ano passado e já estou notando a diferença.</p>
 

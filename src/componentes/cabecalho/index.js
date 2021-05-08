@@ -7,7 +7,7 @@ const Cabecalho = () => (
     <header className="titulo">
         
             <div className="icone-logo">
-                <img className="dente-cabe" src="assets/dente.png" />
+                <img className="dente-cabe" src="assets/dente.png" alt="dente" />
                 <h1>Dentes Saudáveis</h1>
                 </div>
 

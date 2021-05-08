@@ -16,16 +16,16 @@ const Contato = () => {
             </div>
             <ul type="none" className="lista-medicos">
                 <li>
-                    <img className="img-med" src="assets/medico01.png" />
+                    <img className="img-med" src="assets/medico01.png" alt="medico1" />
                     <p >Dr.Hélio</p>
                     <p >Segundas, quartas e sextas das 09:00 ás 16:00</p>
                 </li>
                 <li>
-                    <img className="img-med" src="assets/medico02.png" />
+                    <img className="img-med" src="assets/medico02.png" alt="medico2" />
                     <p className="descript-med">Dr.Carlos</p>
                     <p>Terças e quintas das 13:00 ás 18:00</p>
                 </li>
-                <li><img className="img-suz" src="assets/medico03.png" />
+                <li><img className="img-suz" src="assets/medico03.png" alt ="medico3" />
                     <p>Dra.Suzana</p>
                     <p>Terças, quintas e sábados das 08:00 ás 12:00</p>
                 </li>
